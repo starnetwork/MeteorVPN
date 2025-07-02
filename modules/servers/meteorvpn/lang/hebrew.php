@@ -1,0 +1,23 @@
+<?php
+$_LANG['meteorvpn'] = [
+    'title'               => 'חשבון MeteorVPN',
+    'error_label'         => 'שגיאה:',
+    'active'              => 'פעיל:',
+    'enrolled'            => 'רשום:',
+    'yes'                 => 'כן',
+    'no'                  => 'לא',
+    'enrollment_url'      => 'קישור הרשמה:',
+    'enrollment_token'    => 'טוקן הרשמה:',
+    'token_valid'         => 'הטוקן תקף ל-24 שעות.',
+    'confirm_start'       => 'להתחיל הרשמה חדשה של המחשב?',
+    'start_enrollment'    => 'התחלת תהליך הרישום',
+    'guide_title'         => 'איך להתקין את Defguard Desktop Client ולרשום את המכשיר הזה',
+    'guide_step1'         => 'היכנסו ל-<a href="https://defguard.net/download/" target="_blank" rel="noopener">https://defguard.net/download/</a> והורידו את הגרסה האחרונה של Defguard Desktop Client ל-Windows, macOS או Linux.',
+    'guide_step2'         => 'הריצו את תוכנת ההתקנה ופעלו לפי ההוראות על המסך כדי לסיים את ההתקנה.',
+    'guide_step3'         => 'חזרו לדף הזה, ולחצו על <em>התחלת תהליך הרישום</em>. קישור וטוקן להרשמה חד-פעמית יופיעו למעלה.',
+    'guide_step4_info'    => 'פתחו את Defguard Client, בחרו <strong>"Enroll Device"</strong>, ואז:',
+    'guide_step4_option1' => 'הדביקו את קישור ההרשמה,',
+    'guide_step4_option2' => 'העתיקו והדביקו את טוקן ההרשמה לקליינט.',
+    'guide_step4_alt'     => '(אפשרות אחרת: פתחו את הקישור בדפדפן של המכשיר הזה – הקליינט יזהה את זה אוטומטית.)',
+    'guide_step5'         => 'פעלו לפי ההנחיות בקליינט כדי לסיים את ההרשמה. בסיום, חיבור ה-VPN יופעל באופן אוטומטי והמכשיר שלכם יוצג כ-<kbd>Active&nbsp;✓</kbd> בטבלה למעלה.',
+];
