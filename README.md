@@ -2,7 +2,9 @@
 
 # MeteorVPN WHMCS Provisioning Module
 
-MeteorVPN is a WHMCS server provisioning module that integrates with your Defguard service via its public REST API. It automates account creation, suspension, unsuspension, termination, and password management, and adds a seamless client-area enrollment workflow for desktop clients.
+MeteorVPN is a WHMCS server provisioning module that integrates with [Defguard](https://defguard.net) via its public REST API. It automates account creation, suspension, unsuspension, termination, and password management, and adds a seamless client-area enrollment workflow for desktop clients.
+
+This module serves as an integration for [Defguard](https://defguard.net) — an open-source identity and access management platform. You can find the Defguard project on [GitHub](https://github.com/Defguard/defguard).
 
 ---
 
